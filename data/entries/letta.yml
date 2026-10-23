@@ -1,0 +1,8 @@
+name: Letta
+url: https://github.com/letta-ai/letta
+category: agents-memory
+description: Stateful agents with long-term memory.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

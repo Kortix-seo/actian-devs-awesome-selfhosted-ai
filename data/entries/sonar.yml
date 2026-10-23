@@ -1,0 +1,8 @@
+name: Sonar
+url: https://github.com/dphnAI/sonar
+category: inference-servers
+description: Large-scale LLM inference engine based on vLLM, formerly Aphrodite Engine.
+license: AGPL-3.0
+language: Python
+proprietary: false
+added: '2026-10-23'

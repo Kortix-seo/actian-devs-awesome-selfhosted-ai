@@ -1,0 +1,6 @@
+name: TensorRT-LLM
+url: https://github.com/NVIDIA/TensorRT-LLM
+category: inference-servers
+description: NVIDIA optimized library for LLM inference.
+proprietary: false
+added: '2026-10-23'

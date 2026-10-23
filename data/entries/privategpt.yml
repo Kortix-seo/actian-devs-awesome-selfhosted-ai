@@ -1,0 +1,8 @@
+name: PrivateGPT
+url: https://github.com/zylon-ai/private-gpt
+category: privacy-offline
+description: Private document Q&A API that runs fully offline.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

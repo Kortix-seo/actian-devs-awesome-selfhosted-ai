@@ -1,0 +1,8 @@
+name: OpenLLMetry
+url: https://github.com/traceloop/openllmetry
+category: eval-observability
+description: OpenTelemetry instrumentation for LLM applications.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

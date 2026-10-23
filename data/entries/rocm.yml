@@ -1,0 +1,6 @@
+name: ROCm
+url: https://github.com/ROCm/TheRock
+category: compute-gpus
+description: AMD open software platform for GPU computing, built and distributed through TheRock.
+proprietary: false
+added: '2026-10-23'

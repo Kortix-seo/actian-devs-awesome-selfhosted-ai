@@ -1,0 +1,8 @@
+name: LangGraph
+url: https://github.com/langchain-ai/langgraph
+category: agents-memory
+description: Stateful, graph-based agent workflows.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,7 @@
+name: MLC LLM
+url: https://github.com/mlc-ai/mlc-llm
+category: local-runtimes
+description: Compiler-based LLM deployment across GPUs, phones, and browsers.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: FastEmbed
+url: https://github.com/qdrant/fastembed
+category: embeddings
+description: Lightweight ONNX-based embedding generation.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

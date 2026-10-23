@@ -1,0 +1,7 @@
+name: Weaviate
+url: https://github.com/weaviate/weaviate
+category: vector-databases
+description: Open-source vector database with hybrid search.
+language: Go
+proprietary: false
+added: '2026-10-23'

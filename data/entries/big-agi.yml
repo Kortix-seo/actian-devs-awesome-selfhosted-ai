@@ -1,0 +1,8 @@
+name: Big-AGI
+url: https://github.com/enricoros/big-AGI
+category: uis
+description: Personal AI suite with personas, voice, and tools.
+license: MIT
+language: TypeScript
+proprietary: false
+added: '2026-10-23'

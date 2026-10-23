@@ -1,0 +1,6 @@
+name: Qwen3
+url: https://github.com/QwenLM/Qwen3
+category: open-weight-models
+description: Alibaba open-weight large language model family.
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: NVIDIA device plugin for Kubernetes
+url: https://github.com/NVIDIA/k8s-device-plugin
+category: compute-gpus
+description: Schedule NVIDIA GPUs in Kubernetes clusters.
+license: Apache-2.0
+language: Go
+proprietary: false
+added: '2026-10-23'

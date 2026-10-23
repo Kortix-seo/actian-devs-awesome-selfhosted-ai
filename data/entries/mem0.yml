@@ -1,0 +1,8 @@
+name: Mem0
+url: https://github.com/mem0ai/mem0
+category: agents-memory
+description: Memory layer for AI agents and apps.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

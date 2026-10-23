@@ -1,0 +1,8 @@
+name: Unstructured
+url: https://github.com/Unstructured-IO/unstructured
+category: rag-orchestration
+description: Open-source ETL for transforming documents into LLM-ready data.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

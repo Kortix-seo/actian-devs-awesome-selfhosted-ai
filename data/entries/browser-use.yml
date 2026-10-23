@@ -1,0 +1,8 @@
+name: Browser Use
+url: https://github.com/browser-use/browser-use
+category: agents-memory
+description: Make AI agents control a real browser.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

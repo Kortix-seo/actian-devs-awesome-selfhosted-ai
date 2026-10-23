@@ -1,0 +1,8 @@
+name: vLLM
+url: https://github.com/vllm-project/vllm
+category: inference-servers
+description: High-throughput and memory-efficient LLM serving engine.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

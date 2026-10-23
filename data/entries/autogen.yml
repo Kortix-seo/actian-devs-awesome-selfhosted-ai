@@ -1,0 +1,8 @@
+name: AutoGen
+url: https://github.com/microsoft/autogen
+category: agents-memory
+description: Microsoft's framework for multi-agent conversations.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

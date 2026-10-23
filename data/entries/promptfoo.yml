@@ -1,0 +1,8 @@
+name: promptfoo
+url: https://github.com/promptfoo/promptfoo
+category: eval-observability
+description: CLI for prompt testing, comparisons, and red-teaming.
+license: MIT
+language: TypeScript
+proprietary: false
+added: '2026-10-23'

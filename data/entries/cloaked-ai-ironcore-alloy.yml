@@ -1,0 +1,7 @@
+name: Cloaked AI (IronCore Alloy)
+url: https://github.com/IronCoreLabs/ironcore-alloy
+category: privacy-offline
+description: Encrypt embeddings while preserving vector search.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

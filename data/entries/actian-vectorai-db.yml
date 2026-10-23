@@ -1,0 +1,6 @@
+name: Actian VectorAI DB
+url: https://www.actian.com/databases/vectorai-db/
+category: vector-databases
+description: Self-hosted vector database for on-prem and edge; free Community Edition for local development.
+proprietary: true
+added: '2026-10-23'

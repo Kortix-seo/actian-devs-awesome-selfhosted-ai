@@ -1,0 +1,7 @@
+name: RAGFlow
+url: https://github.com/infiniflow/ragflow
+category: rag-orchestration
+description: Self-hostable RAG engine with deep document understanding.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,7 @@
+name: NVIDIA Container Toolkit
+url: https://github.com/NVIDIA/nvidia-container-toolkit
+category: compute-gpus
+description: Enable GPU access inside containers.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

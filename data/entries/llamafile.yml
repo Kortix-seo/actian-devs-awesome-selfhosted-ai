@@ -1,0 +1,6 @@
+name: llamafile
+url: https://github.com/mozilla-ai/llamafile
+category: local-runtimes
+description: Single-file executables that bundle a model and runtime.
+proprietary: false
+added: '2026-10-23'

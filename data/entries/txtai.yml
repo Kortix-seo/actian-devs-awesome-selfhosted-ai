@@ -1,0 +1,8 @@
+name: txtai
+url: https://github.com/neuml/txtai
+category: rag-orchestration
+description: All-in-one embeddings database and semantic search.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

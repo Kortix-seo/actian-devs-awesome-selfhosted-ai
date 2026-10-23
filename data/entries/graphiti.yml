@@ -1,0 +1,8 @@
+name: Graphiti
+url: https://github.com/getzep/graphiti
+category: agents-memory
+description: Temporal knowledge graphs for agent memory.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: Faiss
+url: https://github.com/facebookresearch/faiss
+category: vector-databases
+description: Library for efficient similarity search over dense vectors.
+license: MIT
+language: C++
+proprietary: false
+added: '2026-10-23'

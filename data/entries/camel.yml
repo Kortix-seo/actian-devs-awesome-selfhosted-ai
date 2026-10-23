@@ -1,0 +1,8 @@
+name: CAMEL
+url: https://github.com/camel-ai/camel
+category: agents-memory
+description: Communicative agents for role-playing research.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: exo
+url: https://github.com/exo-explore/exo
+category: compute-gpus
+description: Run frontier models across a cluster of everyday devices.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

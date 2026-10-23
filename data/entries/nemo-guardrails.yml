@@ -1,0 +1,7 @@
+name: NeMo Guardrails
+url: https://github.com/NVIDIA-NeMo/Guardrails
+category: privacy-offline
+description: Programmable guardrails for LLM conversational systems.
+language: Python
+proprietary: false
+added: '2026-10-23'

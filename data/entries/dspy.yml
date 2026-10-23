@@ -1,0 +1,8 @@
+name: DSPy
+url: https://github.com/stanfordnlp/dspy
+category: rag-orchestration
+description: Framework for programming, not prompting, LLM pipelines.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

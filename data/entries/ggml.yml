@@ -1,0 +1,8 @@
+name: ggml
+url: https://github.com/ggml-org/ggml
+category: compute-gpus
+description: Tensor library for machine learning on CPUs and GPUs.
+license: MIT
+language: C
+proprietary: false
+added: '2026-10-23'

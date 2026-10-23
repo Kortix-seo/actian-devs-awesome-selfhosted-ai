@@ -1,0 +1,8 @@
+name: smolagents
+url: https://github.com/huggingface/smolagents
+category: agents-memory
+description: Minimal code-writing agents from Hugging Face.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

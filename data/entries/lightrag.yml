@@ -1,0 +1,8 @@
+name: LightRAG
+url: https://github.com/HKUDS/LightRAG
+category: rag-orchestration
+description: Simple and fast graph-enhanced RAG framework.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

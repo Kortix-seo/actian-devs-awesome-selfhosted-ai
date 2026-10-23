@@ -1,0 +1,8 @@
+name: llama-cpp-python
+url: https://github.com/abetlen/llama-cpp-python
+category: local-runtimes
+description: Python bindings for llama.cpp with an OpenAI-compatible API.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

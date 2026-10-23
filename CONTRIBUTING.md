@@ -23,16 +23,38 @@ Out of scope: managed-only SaaS with no self-host path, affiliate or tracking li
 
 Projects that are archived, abandoned (no push for 6–12 months), misleading about self-hosting, or repeatedly broken in the weekly link check may be removed after an issue is opened.
 
-## Entry format
+## How to add an entry
+
+`README.md` is generated. Do not edit it by hand; add a data file instead.
+
+1. Copy [`data/entries/_template.yml`](data/entries/_template.yml) to `data/entries/<slug>.yml`. The slug is the name in lowercase with other characters replaced by `-` (for example, `llama.cpp` becomes `llama-cpp.yml`).
+2. Fill in the required fields: `name`, `url`, `category` (an id from [`data/categories.yml`](data/categories.yml)), `description`, `proprietary`, and `added`.
+3. Fill in optional fields only when you have checked them yourself: `license`, `language`, `self_host`, `hardware`, `offline_capable`, `openai_compatible_api`, `commercial_use_ok`. If you installed and ran the project, add `last_verified`, `verified_by`, and `verified_on`.
+4. Run the checks and regenerate the README:
+
+```bash
+pip install -r requirements.txt
+python3 scripts/validate.py
+python3 scripts/build_readme.py
+```
+
+5. Commit both the data file and the regenerated `README.md`.
+
+The generator sorts entries alphabetically and renders each one as:
 
 ```markdown
 - [Name](https://example.com) - Short factual description.
 ```
 
-- Place the entry alphabetically within the correct category.
-- End the description with a period.
-- Do not add license or language tags after the period; `awesome-lint` rejects them.
-- If the project is not open source, mark it inside the sentence, before the period: `- [Name](url) - Description (`⊘ Proprietary`).`
+Set `proprietary: true` for projects that are not open source; the README then shows `(`⊘ Proprietary`)` before the period. Do not write the tag in the description yourself.
+
+## Verifying an entry
+
+A verified entry means a person installed and ran the project on the hardware named in `verified_on`. Verification PRs that only add `last_verified`, `verified_by`, and `verified_on` to an existing entry are welcome, and project maintainers can verify their own entries.
+
+## Activity tracking
+
+A weekly workflow records stars, last push, releases, and contributor counts for every GitHub entry in `data/history/`, and opens a PR that lists archived, stale, renamed, or missing projects. Maintainers use that PR to apply the removal policy below.
 
 ## New categories
 

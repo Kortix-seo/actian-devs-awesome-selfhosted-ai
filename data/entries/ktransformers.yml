@@ -1,0 +1,8 @@
+name: KTransformers
+url: https://github.com/kvcache-ai/ktransformers
+category: inference-servers
+description: CPU/GPU hybrid inference for large MoE models.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

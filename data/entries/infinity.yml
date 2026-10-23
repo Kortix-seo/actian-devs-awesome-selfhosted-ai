@@ -1,0 +1,8 @@
+name: Infinity
+url: https://github.com/michaelfeil/infinity
+category: embeddings
+description: High-throughput embedding and reranking server.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

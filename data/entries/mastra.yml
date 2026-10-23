@@ -1,0 +1,8 @@
+name: Mastra
+url: https://github.com/mastra-ai/mastra
+category: agents-memory
+description: TypeScript framework for AI agents and workflows.
+license: Apache-2.0
+language: TypeScript
+proprietary: false
+added: '2026-10-23'

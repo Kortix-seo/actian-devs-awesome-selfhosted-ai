@@ -1,0 +1,6 @@
+name: Dify
+url: https://github.com/langgenius/dify
+category: rag-orchestration
+description: Self-hostable platform for agentic workflows and RAG.
+proprietary: false
+added: '2026-10-23'

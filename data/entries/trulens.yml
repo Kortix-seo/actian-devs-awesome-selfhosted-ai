@@ -1,0 +1,8 @@
+name: TruLens
+url: https://github.com/truera/trulens
+category: eval-observability
+description: Evaluate and track LLM app quality with feedback functions.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: whisper.cpp
+url: https://github.com/ggml-org/whisper.cpp
+category: local-runtimes
+description: Port of OpenAI Whisper to C/C++ for local speech recognition.
+license: MIT
+language: C++
+proprietary: false
+added: '2026-10-23'

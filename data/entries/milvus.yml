@@ -1,0 +1,8 @@
+name: Milvus
+url: https://github.com/milvus-io/milvus
+category: vector-databases
+description: Distributed cloud-native vector database.
+license: Apache-2.0
+language: Go
+proprietary: false
+added: '2026-10-23'

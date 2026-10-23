@@ -1,0 +1,8 @@
+name: Gemma
+url: https://github.com/google-deepmind/gemma
+category: open-weight-models
+description: Google DeepMind open-weight model library.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: Marqo
+url: https://github.com/marqo-ai/marqo
+category: vector-databases
+description: End-to-end vector search engine with multimodal models.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

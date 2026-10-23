@@ -1,0 +1,8 @@
+name: Ollama
+url: https://github.com/ollama/ollama
+category: local-runtimes
+description: Run open-weight LLMs locally behind a CLI and REST API.
+license: MIT
+language: Go
+proprietary: false
+added: '2026-10-23'

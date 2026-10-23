@@ -1,0 +1,8 @@
+name: OpenSearch
+url: https://github.com/opensearch-project/OpenSearch
+category: vector-databases
+description: Community-driven search engine with vector search.
+license: Apache-2.0
+language: Java
+proprietary: false
+added: '2026-10-23'

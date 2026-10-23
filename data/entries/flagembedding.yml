@@ -1,0 +1,8 @@
+name: FlagEmbedding
+url: https://github.com/FlagOpen/FlagEmbedding
+category: embeddings
+description: BGE embedding and reranker models.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

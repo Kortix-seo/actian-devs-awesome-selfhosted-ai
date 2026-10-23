@@ -1,0 +1,7 @@
+name: LiteLLM
+url: https://github.com/BerriAI/litellm
+category: deployment-infra
+description: OpenAI-compatible gateway across 100+ model backends.
+language: Python
+proprietary: false
+added: '2026-10-23'

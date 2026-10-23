@@ -1,0 +1,8 @@
+name: CTranslate2
+url: https://github.com/OpenNMT/CTranslate2
+category: inference-servers
+description: Fast inference engine for Transformer models.
+license: MIT
+language: C++
+proprietary: false
+added: '2026-10-23'

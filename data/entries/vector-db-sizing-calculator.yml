@@ -1,0 +1,7 @@
+name: Vector DB sizing calculator
+url: https://github.com/actian-devs/vector-db-calculator
+category: related
+description: Estimate memory and storage for any vector workload in about 30 seconds.
+license: MIT
+proprietary: false
+added: '2026-10-23'

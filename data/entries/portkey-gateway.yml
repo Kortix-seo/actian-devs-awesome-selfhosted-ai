@@ -1,0 +1,8 @@
+name: Portkey Gateway
+url: https://github.com/Portkey-AI/gateway
+category: deployment-infra
+description: Open-source AI gateway with guardrails.
+license: MIT
+language: TypeScript
+proprietary: false
+added: '2026-10-23'

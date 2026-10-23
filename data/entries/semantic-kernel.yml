@@ -1,0 +1,7 @@
+name: Semantic Kernel
+url: https://github.com/microsoft/semantic-kernel
+category: rag-orchestration
+description: SDK for integrating LLMs into applications.
+license: MIT
+proprietary: false
+added: '2026-10-23'

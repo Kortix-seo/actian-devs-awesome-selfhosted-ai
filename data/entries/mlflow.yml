@@ -1,0 +1,8 @@
+name: MLflow
+url: https://github.com/mlflow/mlflow
+category: deployment-infra
+description: Open-source platform for the ML lifecycle and model serving.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

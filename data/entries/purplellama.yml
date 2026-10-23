@@ -1,0 +1,6 @@
+name: PurpleLlama
+url: https://github.com/meta-llama/PurpleLlama
+category: privacy-offline
+description: Meta safety tools including Llama Guard.
+proprietary: false
+added: '2026-10-23'

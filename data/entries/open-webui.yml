@@ -1,0 +1,6 @@
+name: Open WebUI
+url: https://github.com/open-webui/open-webui
+category: uis
+description: Self-hosted chat UI for local and remote models.
+proprietary: false
+added: '2026-10-23'

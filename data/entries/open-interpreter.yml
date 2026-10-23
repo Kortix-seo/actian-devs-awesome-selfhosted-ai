@@ -1,0 +1,8 @@
+name: Open Interpreter
+url: https://github.com/openinterpreter/openinterpreter
+category: agents-memory
+description: Natural-language interface for a local code interpreter.
+license: AGPL-3.0
+language: Python
+proprietary: false
+added: '2026-10-23'

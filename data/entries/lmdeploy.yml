@@ -1,0 +1,8 @@
+name: LMDeploy
+url: https://github.com/InternLM/lmdeploy
+category: inference-servers
+description: Toolkit to compress, deploy, and serve LLMs.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

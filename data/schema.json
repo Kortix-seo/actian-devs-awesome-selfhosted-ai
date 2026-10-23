@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Awesome Self-Hosted AI entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "url", "category", "description", "proprietary", "added"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1, "pattern": "^[^\\[\\]]+$" },
+    "url": {
+      "type": "string",
+      "pattern": "^https://[^\\s()]+$",
+      "not": { "pattern": "(utm_|bki\\.sh|[?&](ref|aff|affiliate|via)=)" },
+      "description": "Canonical project URL. No tracking, referral, or affiliate links."
+    },
+    "category": { "type": "string", "description": "An id from data/categories.yml." },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 200,
+      "pattern": "^[A-Z0-9][^\\n]*[^.]\\.$",
+      "not": { "pattern": "⊘" },
+      "description": "One human-written factual sentence ending with a single period. Do not write the Proprietary tag here; set proprietary: true."
+    },
+    "license": { "type": "string", "description": "SPDX identifier when known." },
+    "language": { "type": "string" },
+    "proprietary": { "type": "boolean", "description": "true when the project is not open source. Renders as (`⊘ Proprietary`)." },
+    "added": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "self_host": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "enum": ["docker", "binary", "desktop-app", "pip", "npm", "helm", "source"] }
+    },
+    "hardware": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "enum": ["cpu", "nvidia", "amd", "intel", "apple", "edge"] }
+    },
+    "offline_capable": { "type": "boolean" },
+    "openai_compatible_api": { "type": "boolean" },
+    "commercial_use_ok": { "type": "boolean" },
+    "last_verified": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "verified_by": { "type": ["string", "null"], "pattern": "^@[A-Za-z0-9-]+$" },
+    "verified_on": { "type": ["string", "null"], "description": "Hardware the entry was verified on, e.g. 'M2 MacBook Air 16 GB'." }
+  }
+}

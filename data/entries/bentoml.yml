@@ -1,0 +1,8 @@
+name: BentoML
+url: https://github.com/bentoml/BentoML
+category: inference-servers
+description: Package and serve AI models as production APIs.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

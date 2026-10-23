@@ -1,0 +1,8 @@
+name: localGPT
+url: https://github.com/PromtEngineer/localGPT
+category: privacy-offline
+description: Chat with documents on your own device with no data leaving.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,7 @@
+name: Elasticsearch
+url: https://github.com/elastic/elasticsearch
+category: vector-databases
+description: Search and analytics engine with dense vector support.
+language: Java
+proprietary: false
+added: '2026-10-23'

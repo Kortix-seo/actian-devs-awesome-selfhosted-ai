@@ -1,0 +1,6 @@
+name: Langfuse
+url: https://github.com/langfuse/langfuse
+category: eval-observability
+description: Self-hostable tracing, evals, and prompt management.
+proprietary: false
+added: '2026-10-23'

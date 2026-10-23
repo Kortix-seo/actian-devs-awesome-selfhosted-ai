@@ -1,0 +1,8 @@
+name: Datasets
+url: https://github.com/huggingface/datasets
+category: datasets-benchmarks
+description: Library to load and process machine-learning datasets.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

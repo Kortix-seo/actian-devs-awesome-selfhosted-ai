@@ -1,0 +1,8 @@
+name: MTEB
+url: https://github.com/embeddings-benchmark/mteb
+category: datasets-benchmarks
+description: Massive Text Embedding Benchmark across languages.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

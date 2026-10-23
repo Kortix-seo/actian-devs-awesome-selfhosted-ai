@@ -19,6 +19,7 @@ The `snapshot` workflow opens a PR each Monday. Review it, merge it so the histo
 ## Owners
 
 - [@xamfonos](https://github.com/xamfonos)
+- [@2001asjad](https://github.com/2001asjad)
 
 ## Owners still to add
 

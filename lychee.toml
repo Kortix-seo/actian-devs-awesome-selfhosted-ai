@@ -1,0 +1,15 @@
+# Lychee link-checker config, used by .github/workflows/links.yml.
+#
+# actian.com and reddit.com return 403 to automated clients, so they would
+# fail the weekly check even when the pages are live. Lychee's `accept` list
+# is global, not per host, so these hosts are excluded instead. Check them
+# by hand when editing entries that point there. All other hosts, including
+# GitHub, are checked normally.
+
+exclude = [
+  '^https?://(www\.)?actian\.com/',
+  '^https?://(www\.|old\.)?reddit\.com/',
+]
+
+max_concurrency = 8
+timeout = 20

@@ -1,0 +1,23 @@
+name: awesome-lint
+
+# Runs on pull requests only for now. awesome-lint rejects repositories younger
+# than 30 days, so running it on every push to main would fail from day one.
+# Re-enable the push trigger below once the repo has been public for 30 days
+# (repo not yet created as of 2026-10-23; add 30 days to the creation date).
+on:
+  pull_request:
+  # push:
+  #   branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Run awesome-lint
+        run: npx --yes awesome-lint

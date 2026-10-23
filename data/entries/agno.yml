@@ -1,0 +1,8 @@
+name: Agno
+url: https://github.com/agno-agi/agno
+category: agents-memory
+description: Lightweight library for building multimodal agents.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

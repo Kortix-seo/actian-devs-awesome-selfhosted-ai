@@ -1,0 +1,8 @@
+name: KoboldCpp
+url: https://github.com/LostRuins/koboldcpp
+category: local-runtimes
+description: Single-file llama.cpp client with a built-in UI.
+license: AGPL-3.0
+language: C++
+proprietary: false
+added: '2026-10-23'

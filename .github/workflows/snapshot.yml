@@ -1,0 +1,47 @@
+name: snapshot
+
+# Weekly: record stars, activity, and releases for every GitHub entry in
+# data/history/, update renamed repo URLs, and open a PR listing archived,
+# stale, or missing entries. In the first week of each month it also adds a
+# CHANGELOG.md section. PRs opened with GITHUB_TOKEN do not trigger other
+# workflows; push an empty commit to the PR branch to run checks if needed.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Take snapshot
+        run: python3 scripts/snapshot.py --apply-renames --report "$RUNNER_TEMP/report.md"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Rebuild README
+        run: python3 scripts/build_readme.py
+      - name: Monthly changelog (first week of the month, or manual runs)
+        run: |
+          if [ "$(date -u +%d)" -le 7 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python3 scripts/changelog.py
+          fi
+      - name: Week label
+        id: week
+        run: echo "week=$(date -u +%G-W%V)" >> "$GITHUB_OUTPUT"
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/snapshot
+          delete-branch: true
+          commit-message: "Weekly snapshot ${{ steps.week.outputs.week }}"
+          title: "Weekly snapshot ${{ steps.week.outputs.week }}"
+          body-path: ${{ runner.temp }}/report.md
+          labels: snapshot

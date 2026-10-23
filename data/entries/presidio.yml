@@ -1,0 +1,8 @@
+name: Presidio
+url: https://github.com/data-privacy-stack/presidio
+category: privacy-offline
+description: Detect, redact, and anonymize PII in text and images.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: KServe
+url: https://github.com/kserve/kserve
+category: deployment-infra
+description: Standardized model serving on Kubernetes.
+license: Apache-2.0
+language: Go
+proprietary: false
+added: '2026-10-23'

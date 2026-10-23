@@ -1,0 +1,7 @@
+name: DeepSeek-R1
+url: https://github.com/deepseek-ai/DeepSeek-R1
+category: open-weight-models
+description: Open-weight reasoning model family and paper.
+license: MIT
+proprietary: false
+added: '2026-10-23'

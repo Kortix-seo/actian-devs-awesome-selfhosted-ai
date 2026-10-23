@@ -1,0 +1,8 @@
+name: LanceDB
+url: https://github.com/lancedb/lancedb
+category: vector-databases
+description: Embedded, serverless vector database on Lance.
+license: Apache-2.0
+language: Rust
+proprietary: false
+added: '2026-10-23'

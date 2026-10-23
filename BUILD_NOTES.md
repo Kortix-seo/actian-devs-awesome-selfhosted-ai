@@ -49,6 +49,7 @@ Revised: 2026-10-23 after Henry's scaffold review
 
 ## Notes
 
+- `README.md` is generated from `data/` by `scripts/build_readme.py`; see CONTRIBUTING.md. A weekly workflow records activity in `data/history/` (first snapshot: 2026-W43).
 - Descriptions are drafts; humans rewrite before sindresorhus submission (see MAINTAINERS.md).
 - Learning includes a curated Actian concept-guide subset (disclosed in Footnotes); Actian product how-tos excluded.
 - VectorAI DB listed alphabetically under Vector databases with `⊘ Proprietary`.

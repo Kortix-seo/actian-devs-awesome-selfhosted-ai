@@ -1,0 +1,7 @@
+name: MaxKB
+url: https://github.com/1Panel-dev/MaxKB
+category: rag-orchestration
+description: Open-source knowledge-base Q&A system based on LLMs.
+license: GPL-3.0
+proprietary: false
+added: '2026-10-23'

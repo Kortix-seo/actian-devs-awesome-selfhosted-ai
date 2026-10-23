@@ -1,0 +1,7 @@
+name: GPUStack
+url: https://github.com/gpustack/gpustack
+category: deployment-infra
+description: GPU cluster manager for high-performance model serving.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

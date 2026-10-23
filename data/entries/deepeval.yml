@@ -1,0 +1,8 @@
+name: DeepEval
+url: https://github.com/confident-ai/deepeval
+category: eval-observability
+description: Unit-test style evaluation framework for LLM apps.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

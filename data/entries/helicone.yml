@@ -1,0 +1,7 @@
+name: Helicone
+url: https://github.com/Helicone/helicone
+category: eval-observability
+description: Open-source LLM observability and gateway.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

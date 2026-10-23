@@ -1,0 +1,7 @@
+name: pgvector
+url: https://github.com/pgvector/pgvector
+category: vector-databases
+description: Open-source vector similarity search for PostgreSQL.
+language: C
+proprietary: false
+added: '2026-10-23'

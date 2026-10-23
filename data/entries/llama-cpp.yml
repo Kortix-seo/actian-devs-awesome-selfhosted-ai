@@ -1,0 +1,8 @@
+name: llama.cpp
+url: https://github.com/ggml-org/llama.cpp
+category: local-runtimes
+description: C/C++ LLM inference on CPUs and GPUs; home of GGUF.
+license: MIT
+language: C++
+proprietary: false
+added: '2026-10-23'

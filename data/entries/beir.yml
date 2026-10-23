@@ -1,0 +1,8 @@
+name: BEIR
+url: https://github.com/beir-cellar/beir
+category: datasets-benchmarks
+description: Heterogeneous benchmark for information retrieval.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

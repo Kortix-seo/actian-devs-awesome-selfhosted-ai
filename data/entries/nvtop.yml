@@ -1,0 +1,7 @@
+name: nvtop
+url: https://github.com/Syllo/nvtop
+category: compute-gpus
+description: GPU and accelerator process monitor for the terminal.
+language: C
+proprietary: false
+added: '2026-10-23'

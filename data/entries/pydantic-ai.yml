@@ -1,0 +1,8 @@
+name: Pydantic AI
+url: https://github.com/pydantic/pydantic-ai
+category: agents-memory
+description: Agent framework built on Pydantic validation.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

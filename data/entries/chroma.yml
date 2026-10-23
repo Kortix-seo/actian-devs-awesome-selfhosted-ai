@@ -1,0 +1,8 @@
+name: Chroma
+url: https://github.com/chroma-core/chroma
+category: vector-databases
+description: Embedding database for AI applications.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

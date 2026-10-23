@@ -1,0 +1,8 @@
+name: LocalAI
+url: https://github.com/mudler/LocalAI
+category: local-runtimes
+description: OpenAI-compatible API server for local models on any hardware.
+license: MIT
+language: Go
+proprietary: false
+added: '2026-10-23'

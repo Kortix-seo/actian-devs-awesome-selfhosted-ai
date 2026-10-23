@@ -1,0 +1,8 @@
+name: Sentence Transformers
+url: https://github.com/huggingface/sentence-transformers
+category: embeddings
+description: Library for computing and fine-tuning text embeddings.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

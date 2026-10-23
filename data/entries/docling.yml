@@ -1,0 +1,8 @@
+name: Docling
+url: https://github.com/docling-project/docling
+category: rag-orchestration
+description: Convert PDFs and office documents for generative AI.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

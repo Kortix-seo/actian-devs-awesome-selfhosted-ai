@@ -1,0 +1,8 @@
+name: mlx-lm
+url: https://github.com/ml-explore/mlx-lm
+category: local-runtimes
+description: Run LLMs with MLX on Apple silicon.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

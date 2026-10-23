@@ -1,0 +1,33 @@
+- id: agents-memory
+  title: Agents & memory
+- id: vector-databases
+  title: Vector databases
+- id: rag-orchestration
+  title: RAG & orchestration
+- id: eval-observability
+  title: Eval & observability
+- id: uis
+  title: UIs
+- id: datasets-benchmarks
+  title: Datasets & benchmarks
+- id: local-runtimes
+  title: Local runtimes
+- id: inference-servers
+  title: Inference servers
+- id: compute-gpus
+  title: Compute & GPUs
+- id: deployment-infra
+  title: Deployment & infra
+- id: learning
+  title: Learning
+- id: communities
+  title: Communities
+- id: privacy-offline
+  title: Privacy & offline
+- id: open-weight-models
+  title: Open-weight models
+- id: embeddings
+  title: Embeddings
+- id: related
+  title: Related
+  intro: Tools from the Actian developer community that support self-hosted AI stacks.

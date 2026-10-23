@@ -1,0 +1,8 @@
+name: Quivr
+url: https://github.com/The-Vibe-Company/quivr
+category: rag-orchestration
+description: Open-source engine for search and monitoring over continuous content streams.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

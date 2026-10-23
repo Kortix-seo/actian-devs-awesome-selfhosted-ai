@@ -1,0 +1,7 @@
+name: Speaches
+url: https://github.com/speaches-ai/speaches
+category: privacy-offline
+description: OpenAI-compatible local speech-to-text and text-to-speech.
+license: MIT
+proprietary: false
+added: '2026-10-23'

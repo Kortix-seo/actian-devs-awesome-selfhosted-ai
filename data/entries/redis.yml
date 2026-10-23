@@ -1,0 +1,7 @@
+name: Redis
+url: https://github.com/redis/redis
+category: vector-databases
+description: In-memory data store with RediSearch vector indexes.
+language: C
+proprietary: false
+added: '2026-10-23'

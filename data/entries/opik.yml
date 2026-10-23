@@ -1,0 +1,7 @@
+name: Opik
+url: https://github.com/comet-ml/opik
+category: eval-observability
+description: Open-source platform for LLM tracing and evaluation.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

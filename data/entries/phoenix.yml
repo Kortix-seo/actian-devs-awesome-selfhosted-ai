@@ -1,0 +1,7 @@
+name: Phoenix
+url: https://github.com/Arize-ai/phoenix
+category: eval-observability
+description: Open-source AI observability and evaluation.
+language: Python
+proprietary: false
+added: '2026-10-23'

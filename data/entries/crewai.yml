@@ -1,0 +1,8 @@
+name: CrewAI
+url: https://github.com/crewAIInc/crewAI
+category: agents-memory
+description: Multi-agent orchestration with role-playing crews.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: LM Evaluation Harness
+url: https://github.com/EleutherAI/lm-evaluation-harness
+category: eval-observability
+description: Standard few-shot evaluation harness for language models.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

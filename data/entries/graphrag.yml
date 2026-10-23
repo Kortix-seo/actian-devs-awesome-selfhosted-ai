@@ -1,0 +1,8 @@
+name: GraphRAG
+url: https://github.com/microsoft/graphrag
+category: rag-orchestration
+description: Graph-based retrieval-augmented generation from Microsoft.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

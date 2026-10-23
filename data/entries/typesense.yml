@@ -1,0 +1,8 @@
+name: Typesense
+url: https://github.com/typesense/typesense
+category: vector-databases
+description: Fast typo-tolerant search engine with vector search.
+license: GPL-3.0
+language: C++
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,7 @@
+name: Triton Inference Server
+url: https://github.com/triton-inference-server/server
+category: inference-servers
+description: Multi-framework model server for cloud and edge.
+license: BSD-3-Clause
+proprietary: false
+added: '2026-10-23'

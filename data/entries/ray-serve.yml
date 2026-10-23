@@ -1,0 +1,8 @@
+name: Ray Serve
+url: https://github.com/ray-project/ray
+category: deployment-infra
+description: Scalable model serving library within Ray.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,7 @@
+name: SillyTavern
+url: https://github.com/SillyTavern/SillyTavern
+category: uis
+description: Power-user chat frontend for local LLM backends.
+license: AGPL-3.0
+proprietary: false
+added: '2026-10-23'

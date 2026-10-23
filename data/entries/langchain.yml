@@ -1,0 +1,8 @@
+name: LangChain
+url: https://github.com/langchain-ai/langchain
+category: rag-orchestration
+description: Framework for building LLM applications and agents.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

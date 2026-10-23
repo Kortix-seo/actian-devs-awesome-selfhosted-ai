@@ -23,7 +23,6 @@ The full stack for running AI on your own hardware: models, inference, embedding
 - [Embeddings](#embeddings)
 - [Related](#related)
 
-
 ## Agents & memory
 
 - [Actian Agent Memory Hub](https://github.com/actian-devs/agent-memory-hub) - Free resources for building persistent memory into AI agents.

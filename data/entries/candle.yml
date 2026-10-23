@@ -1,0 +1,8 @@
+name: candle
+url: https://github.com/huggingface/candle
+category: local-runtimes
+description: Minimalist ML framework for Rust with GPU support.
+license: MIT
+language: Rust
+proprietary: false
+added: '2026-10-23'

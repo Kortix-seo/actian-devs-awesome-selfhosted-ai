@@ -1,0 +1,8 @@
+name: Qdrant
+url: https://github.com/qdrant/qdrant
+category: vector-databases
+description: High-performance vector search engine written in Rust.
+license: Apache-2.0
+language: Rust
+proprietary: false
+added: '2026-10-23'

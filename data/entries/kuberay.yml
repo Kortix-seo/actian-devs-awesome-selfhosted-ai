@@ -1,0 +1,7 @@
+name: KubeRay
+url: https://github.com/kuberay-project/kuberay
+category: deployment-infra
+description: Toolkit to run Ray applications on Kubernetes.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

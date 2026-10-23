@@ -1,0 +1,8 @@
+name: SGLang
+url: https://github.com/sgl-project/sglang
+category: inference-servers
+description: Fast serving framework for LLMs and vision-language models.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

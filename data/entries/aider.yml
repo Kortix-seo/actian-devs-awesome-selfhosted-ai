@@ -1,0 +1,8 @@
+name: Aider
+url: https://github.com/Aider-AI/aider
+category: agents-memory
+description: AI pair programming in your terminal.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

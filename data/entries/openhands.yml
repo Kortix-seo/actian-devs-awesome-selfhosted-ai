@@ -1,0 +1,8 @@
+name: OpenHands
+url: https://github.com/OpenHands/OpenHands
+category: agents-memory
+description: Open platform for AI software development agents.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

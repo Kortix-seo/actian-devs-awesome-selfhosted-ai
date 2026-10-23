@@ -1,0 +1,7 @@
+name: Tabby
+url: https://github.com/TabbyML/tabby
+category: uis
+description: Self-hosted coding assistant with local models.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

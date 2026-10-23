@@ -1,0 +1,7 @@
+name: AnythingLLM
+url: https://github.com/Mintplex-Labs/anything-llm
+category: uis
+description: All-in-one desktop and Docker AI app with built-in RAG.
+license: MIT
+proprietary: false
+added: '2026-10-23'

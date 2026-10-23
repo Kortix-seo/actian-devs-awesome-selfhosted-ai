@@ -1,0 +1,7 @@
+name: LibreChat
+url: https://github.com/LibreChat-AI/LibreChat
+category: uis
+description: Multi-provider self-hosted ChatGPT-style UI.
+license: MIT
+proprietary: false
+added: '2026-10-23'

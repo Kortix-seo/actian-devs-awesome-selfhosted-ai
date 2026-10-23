@@ -1,0 +1,8 @@
+name: Vald
+url: https://github.com/vdaas/vald
+category: vector-databases
+description: Distributed vector search engine for Kubernetes.
+license: Apache-2.0
+language: Go
+proprietary: false
+added: '2026-10-23'

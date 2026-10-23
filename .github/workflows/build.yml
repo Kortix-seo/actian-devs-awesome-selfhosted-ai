@@ -1,0 +1,24 @@
+name: build
+
+# README.md is generated from data/. This checks that every entry is valid
+# and that README.md matches the data.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Validate entries
+        run: python3 scripts/validate.py
+      - name: Run tests
+        run: python3 -m unittest discover tests
+      - name: Check README.md is generated from data
+        run: python3 scripts/build_readme.py --check

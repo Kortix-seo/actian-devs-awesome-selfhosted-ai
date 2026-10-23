@@ -1,0 +1,8 @@
+name: bitsandbytes
+url: https://github.com/bitsandbytes-foundation/bitsandbytes
+category: compute-gpus
+description: 8-bit and 4-bit optimizers and quantization for PyTorch.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

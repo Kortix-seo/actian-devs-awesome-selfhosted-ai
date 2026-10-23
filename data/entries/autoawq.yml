@@ -1,0 +1,8 @@
+name: AutoAWQ
+url: https://github.com/casper-hansen/AutoAWQ
+category: compute-gpus
+description: Easy Activation-aware Weight Quantization for LLMs.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

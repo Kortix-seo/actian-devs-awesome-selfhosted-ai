@@ -1,0 +1,6 @@
+name: Llama models
+url: https://github.com/meta-llama/llama-models
+category: open-weight-models
+description: Meta Llama model cards and utilities.
+proprietary: false
+added: '2026-10-23'

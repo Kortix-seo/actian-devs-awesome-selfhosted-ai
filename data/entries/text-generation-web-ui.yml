@@ -1,0 +1,8 @@
+name: Text generation web UI
+url: https://github.com/oobabooga/textgen
+category: uis
+description: Gradio desktop UI for running local LLMs.
+license: AGPL-3.0
+language: Python
+proprietary: false
+added: '2026-10-23'

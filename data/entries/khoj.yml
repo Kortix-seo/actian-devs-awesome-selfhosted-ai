@@ -1,0 +1,8 @@
+name: Khoj
+url: https://github.com/khoj-ai/khoj
+category: privacy-offline
+description: Self-hostable personal AI second brain.
+license: AGPL-3.0
+language: Python
+proprietary: false
+added: '2026-10-23'

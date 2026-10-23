@@ -1,0 +1,6 @@
+name: MCP servers
+url: https://github.com/modelcontextprotocol/servers
+category: agents-memory
+description: Reference Model Context Protocol server implementations.
+proprietary: false
+added: '2026-10-23'

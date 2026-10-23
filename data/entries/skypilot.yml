@@ -1,0 +1,8 @@
+name: SkyPilot
+url: https://github.com/skypilot-org/skypilot
+category: deployment-infra
+description: Run AI workloads on any cloud or cluster.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

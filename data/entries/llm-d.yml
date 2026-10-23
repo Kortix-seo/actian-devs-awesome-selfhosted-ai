@@ -1,0 +1,7 @@
+name: llm-d
+url: https://github.com/llm-d/llm-d
+category: deployment-infra
+description: Kubernetes-native distributed LLM inference.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

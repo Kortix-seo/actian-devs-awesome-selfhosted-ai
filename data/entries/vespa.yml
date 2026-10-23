@@ -1,0 +1,8 @@
+name: Vespa
+url: https://github.com/vespa-engine/vespa
+category: vector-databases
+description: Open-source big data serving engine with vector ranking.
+license: Apache-2.0
+language: Java
+proprietary: false
+added: '2026-10-23'

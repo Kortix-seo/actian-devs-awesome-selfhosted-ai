@@ -1,0 +1,7 @@
+name: gpt-oss
+url: https://github.com/openai/gpt-oss
+category: open-weight-models
+description: OpenAI open-weight models and reference code.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

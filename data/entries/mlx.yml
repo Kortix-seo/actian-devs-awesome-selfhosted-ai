@@ -1,0 +1,8 @@
+name: MLX
+url: https://github.com/ml-explore/mlx
+category: local-runtimes
+description: Apple array framework for machine learning on Apple silicon.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

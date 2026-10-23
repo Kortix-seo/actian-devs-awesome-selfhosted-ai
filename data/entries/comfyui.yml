@@ -1,0 +1,8 @@
+name: ComfyUI
+url: https://github.com/Comfy-Org/ComfyUI
+category: uis
+description: Node-based UI and backend for diffusion models.
+license: GPL-3.0
+language: Python
+proprietary: false
+added: '2026-10-23'

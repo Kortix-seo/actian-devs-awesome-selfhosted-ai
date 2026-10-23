@@ -1,0 +1,8 @@
+name: ANN-Benchmarks
+url: https://github.com/erikbern/ann-benchmarks
+category: datasets-benchmarks
+description: Benchmarks for approximate nearest-neighbour libraries.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'

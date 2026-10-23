@@ -1,0 +1,7 @@
+name: Actian Agent Memory Hub
+url: https://github.com/actian-devs/agent-memory-hub
+category: agents-memory
+description: Free resources for building persistent memory into AI agents.
+license: Apache-2.0
+proprietary: false
+added: '2026-10-23'

@@ -1,0 +1,8 @@
+name: OpenVINO
+url: https://github.com/openvinotoolkit/openvino
+category: compute-gpus
+description: Intel toolkit for optimized inference on CPUs and GPUs.
+license: Apache-2.0
+language: C++
+proprietary: false
+added: '2026-10-23'

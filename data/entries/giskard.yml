@@ -1,0 +1,8 @@
+name: Giskard
+url: https://github.com/Giskard-AI/giskard-oss
+category: eval-observability
+description: Open-source testing and evaluation for ML and LLM models.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

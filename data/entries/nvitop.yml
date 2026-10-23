@@ -1,0 +1,8 @@
+name: nvitop
+url: https://github.com/XuehaiPan/nvitop
+category: compute-gpus
+description: Interactive NVIDIA GPU process viewer.
+license: Apache-2.0
+language: Python
+proprietary: false
+added: '2026-10-23'

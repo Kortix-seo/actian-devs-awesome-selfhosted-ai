@@ -1,0 +1,8 @@
+name: Text Embeddings Inference
+url: https://github.com/huggingface/text-embeddings-inference
+category: embeddings
+description: Hugging Face server for embedding and reranker models.
+license: Apache-2.0
+language: Rust
+proprietary: false
+added: '2026-10-23'

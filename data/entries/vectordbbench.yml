@@ -1,0 +1,8 @@
+name: VectorDBBench
+url: https://github.com/zilliztech/VectorDBBench
+category: datasets-benchmarks
+description: Open benchmark tool for vector databases.
+license: MIT
+language: Python
+proprietary: false
+added: '2026-10-23'
